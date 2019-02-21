@@ -1,0 +1,19 @@
+{
+    "cards":[
+        {
+            "id":1, "eng":"How are you", "urdu":"Ap kaisy ho"
+        },
+        {
+            "id":2, "eng":"I am fine", "urdu":"Ma theek hu"
+        },
+        {
+            "id":3, "eng":"What are you doing", "urdu":"Ap kya kar raha ho"
+        },
+        {
+            "id":4, "eng":"I am learning react", "urdu":"Ma react seek raha hu"
+        },
+        {
+            "id":5, "eng":"Its great", "urdu":"Achi baat ha"
+        }
+    ]
+}
