@@ -11,8 +11,8 @@ class ChangeButton extends Component {
     }
     render(){
         return(
-            <div className="container">
-                <button onClick={this.changeCards}>change card</button>
+            <div className="">
+                <button className="button_changer" onClick={this.changeCards}>change card</button>
             </div>
         )
     }

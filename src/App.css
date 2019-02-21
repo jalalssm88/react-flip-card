@@ -31,3 +31,25 @@
     transform: rotate(360deg);
   }
 }
+
+
+.urdu, .eng{
+  line-height: 400px;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: arial;
+  color: #151414;
+}
+
+.button_changer{
+  position: absolute;
+  right: left;
+  left: 111px;
+  top: 421px;
+  padding: 15px 37px;
+  font-size: 18px;
+  background: #886ad0;
+  color: white;
+  border: 0px;
+  cursor: pointer;
+}
